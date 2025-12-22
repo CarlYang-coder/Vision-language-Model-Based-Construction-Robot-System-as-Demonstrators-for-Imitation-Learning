@@ -27,7 +27,8 @@ To incorporate placement orientation instructions, a multimodal architecture was
 - **Text branch**: Frozen CLIP text encoder + MLP → predicts `yaw`
 - **Multi-head output** for decoupled spatial and rotational reasoning
 
-![VLM for Behavior Cloning](Images/CNN.png)
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/528ceb98-f455-4ebf-8aca-473664bd1c3c" />
+
 
 ### Results
 - Consistent success across all test locations (up to 5 cm variation)
